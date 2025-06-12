@@ -1,0 +1,3 @@
+# Exclude install and build folders
+install/
+build/
